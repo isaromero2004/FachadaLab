@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Fachada.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1E766CA6-AE0C-4229-B6E9-048F2F11DEFA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fachada.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FachadaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CC7D4BFC-CD01-45F0-95E6-BCBC79C23362}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Fachada">
+      <UniqueIdentifier>{77856F6A-C18A-4200-99EC-7F074166E796}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Fachada\Capsula.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\Capsula.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Fachada\Fachada.Build.cs">
+      <Filter>Source\Fachada</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Fachada\Fachada.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\Fachada.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fachada\FachadaGameMode.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\FachadaGameMode.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fachada\FachadaPawn.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\FachadaPawn.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fachada\FachadaProjectile.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\FachadaProjectile.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fachada\NaveEnemiga.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\NaveEnemiga.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fachada\Obstaculo.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\Obstaculo.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fachada\SpawnFacade.cpp">
+      <Filter>Source\Fachada</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fachada\SpawnFacade.h">
+      <Filter>Source\Fachada</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

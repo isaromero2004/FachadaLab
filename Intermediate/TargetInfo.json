@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Fachada",
+			"Path": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Unreal Projects\\Fachada\\Source\\Fachada.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FachadaEditor",
+			"Path": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Unreal Projects\\Fachada\\Source\\FachadaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
