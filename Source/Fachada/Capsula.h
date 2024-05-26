@@ -26,4 +26,5 @@ public:
 public:
 	virtual void AgarrarCapsula();
 	virtual void SoltarCapsula();
+
 };

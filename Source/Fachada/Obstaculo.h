@@ -29,6 +29,7 @@ public:
 
 protected:
 	float danio;
+
 	float tiempoGeneracion;
 
 	float velocidad;
